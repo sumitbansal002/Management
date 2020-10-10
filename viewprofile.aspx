@@ -35,7 +35,7 @@
                     Font-Bold="True" Font-Names="Verdana" Font-Size="0.8em" ForeColor="#990000" StaticSubMenuIndent="10px"
                     Style="z-index: 103; left: 764px; position: absolute; top: 200px" Width="138px" TabIndex="14" >
         <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
-        <DynamicHoverStyle BackColor="#990000" ForeColor="White" />
+        <DynamicHoverStyle BackColor="#FFFFFF" ForeColor="White" />
         <DynamicMenuStyle BackColor="#FFFBD6" />
         <StaticSelectedStyle BackColor="#FFCC66" />
         <DynamicSelectedStyle BackColor="#FFCC66" />
