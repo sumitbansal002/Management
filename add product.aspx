@@ -48,6 +48,7 @@
                     <asp:ListItem>furniture</asp:ListItem>
                     <asp:ListItem>officeequipment</asp:ListItem>
                     <asp:ListItem>homeappliances</asp:ListItem>
+                    <asp:ListItem>Grocessary</asp:ListItem>
                 </asp:DropDownList>
                 <asp:Label ID="Label7" runat="server" Style="z-index: 105; left: 52px; position: absolute;
                     top: 257px" Text="Product Description" Width="124px"></asp:Label>
