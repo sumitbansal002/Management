@@ -1,4 +1,4 @@
-<%@ Page Language="C#" MasterPageFile="~/admin.master" AutoEventWireup="true" CodeFile="adminfeedback1.aspx.cs" Inherits="adminfeedback1" Title="Administrator verify Feedback" %>
+<%@ Page Language="C#" MasterPageFile="~/admin.master" class="serversidepageholder" AutoEventWireup="true" CodeFile="adminfeedback1.aspx.cs" Inherits="adminfeedback1" Title="Administrator verify Feedback" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
     <br />
     <br />
