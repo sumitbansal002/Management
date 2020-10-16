@@ -5,7 +5,7 @@
     <asp:Label ID="lbluser" runat="server" Style="z-index: 100; left: 148px; position: absolute;
         top: 190px" Width="147px"></asp:Label>
     &nbsp;&nbsp;&nbsp;<br />
-    <asp:HyperLink ID="HyperLink1" runat="server" BackColor="AntiqueWhite" BorderColor="#404040"
+    <asp:HyperLink ID="HyperLink1" class="lingustic" runat="server" BackColor="AntiqueWhite" BorderColor="#404040"
         ForeColor="IndianRed" NavigateUrl="~/add product.aspx" Style="z-index: 101; left: 403px;
         position: absolute; top: 158px" TabIndex="5" Width="94px">Add Product</asp:HyperLink>
     &nbsp;<br />
